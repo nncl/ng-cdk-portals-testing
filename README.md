@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
+## Docs' examples
+
+- [@JGhignatti's talk](https://docs.google.com/presentation/d/1APWEwQKG8oYIw8lpj0AH9nEccAxdKb3vrFAKbaAoQBU/edit#slide=id.g6da1bb2695_0_15)
+- [Angular CDK Portals](https://medium.com/angular-in-depth/angular-cdk-portals-b02f66dd020c)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
